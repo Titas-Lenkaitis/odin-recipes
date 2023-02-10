@@ -1,0 +1,68 @@
+body {
+    background-color: #0d238f;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.burgerpage {
+    background-color: #dba85a;
+}
+
+
+
+.burgerpagetop {
+    background-color: #ad6907;
+    font-size: 48px;
+}
+
+.top {
+    background-color: #613900;
+}
+
+
+
+.description {
+    background-color: #edbe00;
+}
+
+.deschead {
+    background-color: #cc9600;
+    font-size: 36px;
+}
+
+.descpara {
+    font-size: 24px;
+}
+
+
+
+.ingredients {
+    background-color: #593601;
+    color: yellow;
+}
+
+.ingredhead {
+    background-color: #3d2301;
+    font-size: 36px;
+}
+
+.ingredlist, .steplist {
+    font-size: 24px;
+    text-align: left;
+}
+
+
+
+.steps {
+    background-color: #a6bf28;
+}
+
+.stephead {
+    background-color: #4c590c;
+    font-size: 36px;
+}
+
+.homebutton {
+    background-color: #3d56d4;
+    font-size: 48px;
+}
