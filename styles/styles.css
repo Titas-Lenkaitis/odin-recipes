@@ -1,0 +1,62 @@
+body {
+    background-color: #0d238f;
+}
+
+* {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    font-size: 36px;
+}
+
+.headingmain {
+    background-color: #000000;
+    color: white;
+    font-size: 48px;
+}
+
+.paragraphmain {
+    background-color: grey;
+    color: white;
+    font-size: 36px;
+}
+
+.homepagetop {
+    background-color: grey;
+}
+
+.homepage {
+    background-color: #0d238f;
+}
+
+.burgerhome {
+    background-color: #dba85a;
+    font-weight: 900;
+}
+
+.burgerhomeimage {
+    width: 500px;
+    height: auto;
+}
+
+.cookieshome {
+    background-color: #4d320a;
+    font-weight: 900;
+}
+
+.cookieshomeimage {
+    width: auto;
+    height: 500px;
+}
+
+.shakehome {
+    background-color: #e6cfae;
+    font-weight: 900;
+}
+
+.shakehomeimage {
+    height: 500px;
+    width: auto;
+}
