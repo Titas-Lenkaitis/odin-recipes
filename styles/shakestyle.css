@@ -1,0 +1,80 @@
+body {
+    background-color: #0d238f;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.shakepage {
+    background-color: #e6d9c5;
+}
+
+
+
+.shakehead {
+    background-color: #e8e1d5;
+}
+
+.shakeheadhead {
+    background-color: #c7b08d;
+    font-size: 48px;
+}
+
+.shakeheadimg {
+    height: 500px;
+    width: auto;
+}
+
+
+
+.desc {
+    background-color: #96230f;
+    color: #e8e1d5;
+}
+
+.deschead {
+    background-color: #691000;
+    font-size: 36px;
+}
+
+.descpara {
+    font-size: 24px;
+}
+
+
+
+.ingred {
+    background-color: #3b6e09;
+}
+
+.ingredhead {
+    background-color: #254704;
+    font-size: 36px;
+}
+
+.ingredlist {
+    text-align: left;
+    font-size: 24px;
+}
+
+
+
+.steps {
+    background-color: #dbbc2e;
+}
+
+.stepshead {
+    background-color: #b3830b;
+    font-size: 36px;
+}
+
+.stepslist {
+    text-align: left;
+    font-size: 24px;
+}
+
+
+
+.homebutton {
+    background-color: #3d56d4;
+    font-size: 48px;
+}
